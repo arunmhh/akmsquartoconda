@@ -8,6 +8,9 @@ Hello world
 python 
 
 statistical programming 
+make python best learning platform
+and we like to have r programming too,
+in ngs data analysis need more smooth programming.
 
 
 
